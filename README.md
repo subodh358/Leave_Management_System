@@ -14,3 +14,4 @@ To check API use Postman or curl.
 While making request with postman enter X-csrf token and csrf token in cookies.
 To use authenticated API add sessionid in cookie.
 
+#intrnship assignment
